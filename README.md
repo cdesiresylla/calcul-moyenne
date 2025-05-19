@@ -26,7 +26,7 @@ Ce dépôt contient un mini-projet Python nommé **exo.py**, qui permet de gére
 
 ## ⚙️ Comment exécuter le programme
 
-1. Ouvrir un terminal ou un éditeur Python (comme VS Code, Thonny ou IDLE)
+1. Ouvrir un terminal ou un éditeur Python (comme VS Code ou Notepad++ etc )
 2. Lancer le fichier :
 
 ```bash
