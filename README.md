@@ -4,6 +4,8 @@
 
 Ce dépôt contient un mini-projet Python nommé **exo.py**, qui permet de gérer les notes d’un étudiant et de générer un bulletin scolaire simple.
 
+Projet réalisé par : **Sylla Charles** et **Sylla Noura** 
+
 ---
 
 ## 🧾 Objectifs pédagogiques
